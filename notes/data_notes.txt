@@ -1,0 +1,48 @@
+Total ARFF files: 200
+
+"The WISDM v1.1 dataset contains 200 ARFF files.
+Each ARFF file corresponds to one subject performing multiple activities captured through accelerometer or gyroscope sensors on phone or smartwatch.
+More ARFF files = more users = more movement samples = better model generalization.”
+
+The dataset has 18 activity classes(A-S):
+Waling = A
+jogging = B
+stairs = C
+sitting = D
+standing = E
+typing = F
+teeth = G
+soup = H
+chips = I
+pasta = J
+drinking = K
+sandwich = L
+kicking = M
+catch = O
+dribbling = P
+writing = Q
+clapping = R
+folding = S
+
+>>Computed the distribution across all ARFF files and found the counts are similar.
+  Hence, the dataset is balanced.
+ACTIVITY
+M    4365
+P    4351
+O    4293
+K    4284
+E    4232
+D    4214
+S    4183
+Q    4175
+B    4175
+R    4174
+G    4160
+H    4137
+A    4133
+I    4116
+L    4086
+J    4027
+F    4006
+C    3988
+Name: count, dtype: int64
