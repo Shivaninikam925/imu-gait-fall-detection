@@ -46,3 +46,106 @@ J    4027
 F    4006
 C    3988
 Name: count, dtype: int64
+
+---
+>>Basic Dataset Info
+
+RangeIndex: 75099 entries, 0 to 75098
+Data columns (total 93 columns):
+ #   Column     Non-Null Count  Dtype  
+---  ------     --------------  -----  
+ 0   ACTIVITY   75099 non-null  object 
+ 1   X0         75099 non-null  float64
+ 2   X1         75099 non-null  float64
+ 3   X2         75099 non-null  float64
+ 4   X3         75099 non-null  float64
+ 5   X4         75099 non-null  float64
+ 6   X5         75099 non-null  float64
+ 7   X6         75099 non-null  float64
+ 8   X7         75099 non-null  float64
+ 9   X8         75099 non-null  float64
+ 10  X9         75099 non-null  float64
+ 11  Y0         75099 non-null  float64
+ 12  Y1         75099 non-null  float64
+ 13  Y2         75099 non-null  float64
+ 14  Y3         75099 non-null  float64
+ 15  Y4         75099 non-null  float64
+ 16  Y5         75099 non-null  float64
+ 17  Y6         75099 non-null  float64
+ 18  Y7         75099 non-null  float64
+ 19  Y8         75099 non-null  float64
+ 20  Y9         75099 non-null  float64
+ 21  Z0         75099 non-null  float64
+ 22  Z1         75099 non-null  float64
+ 23  Z2         75099 non-null  float64
+ 24  Z3         75099 non-null  float64
+ 25  Z4         75099 non-null  float64
+ 26  Z5         75099 non-null  float64
+ 27  Z6         75099 non-null  float64
+ 28  Z7         75099 non-null  float64
+ 29  Z8         75099 non-null  float64
+ 30  Z9         75099 non-null  float64
+ 31  XAVG       75099 non-null  float64
+ 32  YAVG       75099 non-null  float64
+ 33  ZAVG       75099 non-null  float64
+ 34  XPEAK      75099 non-null  float64
+ 35  YPEAK      75099 non-null  float64
+ 36  ZPEAK      75099 non-null  float64
+ 37  XABSOLDEV  75099 non-null  float64
+ 38  YABSOLDEV  75099 non-null  float64
+ 39  ZABSOLDEV  75099 non-null  float64
+ 40  XSTANDDEV  75099 non-null  float64
+ 41  YSTANDDEV  75099 non-null  float64
+ 42  ZSTANDDEV  75099 non-null  float64
+ 43  XVAR       75099 non-null  float64
+ 44  YVAR       75099 non-null  float64
+ 45  ZVAR       75099 non-null  float64
+ 46  XMFCC0     75099 non-null  float64
+ 47  XMFCC1     75099 non-null  float64
+ 48  XMFCC2     75099 non-null  float64
+ 49  XMFCC3     75099 non-null  float64
+ 50  XMFCC4     75099 non-null  float64
+ 51  XMFCC5     75099 non-null  float64
+ 52  XMFCC6     75099 non-null  float64
+ 53  XMFCC7     75099 non-null  float64
+ 54  XMFCC8     75099 non-null  float64
+ 55  XMFCC9     75099 non-null  float64
+ 56  XMFCC10    75099 non-null  float64
+ 57  XMFCC11    75099 non-null  float64
+ 58  XMFCC12    75099 non-null  float64
+ 59  YMFCC0     75099 non-null  float64
+ 60  YMFCC1     75099 non-null  float64
+ 61  YMFCC2     75099 non-null  float64
+ 62  YMFCC3     75099 non-null  float64
+ 63  YMFCC4     75099 non-null  float64
+ 64  YMFCC5     75099 non-null  float64
+ 65  YMFCC6     75099 non-null  float64
+ 66  YMFCC7     75099 non-null  float64
+ 67  YMFCC8     75099 non-null  float64
+ 68  YMFCC9     75099 non-null  float64
+ 69  YMFCC10    75099 non-null  float64
+ 70  YMFCC11    75099 non-null  float64
+ 71  YMFCC12    75099 non-null  float64
+ 72  ZMFCC0     75099 non-null  float64
+ 73  ZMFCC1     75099 non-null  float64
+ 74  ZMFCC2     75099 non-null  float64
+ 75  ZMFCC3     75099 non-null  float64
+ 76  ZMFCC4     75099 non-null  float64
+ 77  ZMFCC5     75099 non-null  float64
+ 78  ZMFCC6     75099 non-null  float64
+ 79  ZMFCC7     75099 non-null  float64
+ 80  ZMFCC8     75099 non-null  float64
+ 81  ZMFCC9     75099 non-null  float64
+ 82  ZMFCC10    75099 non-null  float64
+ 83  ZMFCC11    75099 non-null  float64
+ 84  ZMFCC12    75099 non-null  float64
+ 85  XYCOS      75099 non-null  float64
+ 86  XZCOS      75099 non-null  float64
+ 87  YZCOS      75099 non-null  float64
+ 88  XYCOR      75099 non-null  float64
+ 89  XZCOR      75099 non-null  float64
+ 90  YZCOR      75099 non-null  float64
+ 91  RESULTANT  75099 non-null  float64
+ 92  class      75099 non-null  int64  
+dtypes: float64(91), int64(1), object(1)
+memory usage: 53.3+ MB
