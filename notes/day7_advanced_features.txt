@@ -1,0 +1,14 @@
+DAY 7 – ADVANCED FEATURES
+
+>>Extracted advanced features:
+   - RESULTANT acceleration
+   - MEAN_X
+   - VAR_X
+   - ENTROPY_X
+
+>>Verified the new features were added successfully to the dataset.
+
+>>Re-trained Random Forest (≈76.07%) after advanced feature extraction.
+
+>>Observed minimal change in accuracy → dataset complexity is high.
+
